@@ -26,4 +26,6 @@ Este projeto contou com o auxílio de **ferramentas de Inteligência Artificial*
 
 O uso da tecnologia serviu como um "copiloto", permitindo focar na arquitetura do jogo e na experiência do usuário, enquanto a ferramenta ajudava a validar a robustez do código.
 
-Por fim, estou muito satisfeito com o resultado e me sinto feliz de ter terminado esse projeto. Pode parecer pouco, mas é um pequeno passo para me tornar um grande desenvolvedor.
+## 💬 Reflexão Pessoal
+
+> "Estou muito satisfeito com o resultado e me sinto feliz de ter terminado esse projeto. Pode parecer pouco, mas é um pequeno passo para me tornar um grande desenvolvedor."
